@@ -192,7 +192,9 @@ erDiagram
 
 <img width="236" height="224" alt="Screenshot 2026-09-13 165118" src="https://github.com/user-attachments/assets/e2b3a917-bee5-4eb4-b067-326378c189c5" />
 
+<img width="382" height="241" alt="Screenshot 2026-09-13 165540" src="https://github.com/user-attachments/assets/6282fbb1-2824-48a9-8b8e-e1817297f83e" />
 
+<img width="470" height="263" alt="Screenshot 2026-09-13 165719" src="https://github.com/user-attachments/assets/480d435c-c5cf-4419-bbfd-72461e3f09b4" />
 
   
 
