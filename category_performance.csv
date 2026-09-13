@@ -1,0 +1,6 @@
+category,orders,units_sold,gross_revenue,gross_margin,margin_pct,return_rate_pct
+Footwear,2401,3073,9781994.00,4943499.00,50.54,7.50
+Women's Apparel,2408,3092,6257411.00,3106834.00,49.65,8.39
+Men's Apparel,2059,2588,4794261.00,2380462.00,49.65,7.87
+Accessories,2128,2710,4095258.00,2066582.00,50.46,8.27
+Beauty,2497,3233,2826811.00,1401667.00,49.58,7.89
