@@ -1,0 +1,261 @@
+product_id,category,sub_category,brand,list_price,unit_cost
+1,Men's Apparel,T-Shirts,Aravalli,1502,652
+2,Accessories,Bags,Carryall,2368,1005
+3,Women's Apparel,Leggings,Aravalli,2438,1320
+4,Women's Apparel,Sarees,Zariya,1235,537
+5,Men's Apparel,Jeans,Aravalli,2971,1503
+6,Accessories,Bags,Solstice,1780,802
+7,Men's Apparel,T-Shirts,Denimo,1684,810
+8,Accessories,Belts,Carryall,1392,720
+9,Women's Apparel,Leggings,Meraki,2492,1134
+10,Footwear,Sneakers,Strydo,2642,1199
+11,Beauty,Makeup,PureSkin,1138,504
+12,Women's Apparel,Dresses,Zariya,2353,1071
+13,Women's Apparel,Leggings,Aravalli,791,412
+14,Accessories,Bags,TimeKeep,2466,1419
+15,Men's Apparel,T-Shirts,Aravalli,1892,932
+16,Footwear,Sandals,SprintX,2221,1004
+17,Footwear,Sandals,SprintX,3452,1461
+18,Footwear,Formal Shoes,Strydo,4595,2468
+19,Men's Apparel,Jackets,Denimo,1024,517
+20,Beauty,Haircare,Glowly,1016,588
+21,Footwear,Sports Shoes,SprintX,2014,955
+22,Beauty,Makeup,Glowly,1491,640
+23,Men's Apparel,T-Shirts,Aravalli,789,358
+24,Women's Apparel,Leggings,Aravalli,2536,1103
+25,Accessories,Belts,TimeKeep,520,223
+26,Footwear,Sneakers,Strydo,3195,1558
+27,Footwear,Sports Shoes,Strydo,4308,2259
+28,Beauty,Skincare,Glowly,1184,538
+29,Accessories,Bags,Carryall,1385,645
+30,Beauty,Makeup,NatureLux,644,370
+31,Beauty,Makeup,NatureLux,1395,692
+32,Beauty,Skincare,Glowly,339,175
+33,Women's Apparel,Sarees,Chiffon Co,1607,696
+34,Beauty,Makeup,NatureLux,687,318
+35,Women's Apparel,Tops,Aravalli,896,519
+36,Men's Apparel,T-Shirts,Denimo,2571,1442
+37,Footwear,Formal Shoes,Strydo,3880,2240
+38,Beauty,Skincare,NatureLux,474,219
+39,Men's Apparel,Jackets,Denimo,1614,730
+40,Footwear,Sports Shoes,ComfortWalk,3597,1536
+41,Footwear,Sandals,SprintX,4035,2150
+42,Beauty,Skincare,Glowly,1316,560
+43,Footwear,Sandals,ComfortWalk,2261,1275
+44,Women's Apparel,Dresses,Chiffon Co,2892,1561
+45,Women's Apparel,Dresses,Meraki,700,384
+46,Women's Apparel,Tops,Meraki,2165,986
+47,Accessories,Belts,TimeKeep,1090,515
+48,Men's Apparel,Jeans,Aravalli,2585,1474
+49,Men's Apparel,Jeans,Denimo,2877,1408
+50,Footwear,Sports Shoes,SprintX,2576,1100
+51,Accessories,Bags,Solstice,1106,541
+52,Footwear,Formal Shoes,SprintX,3076,1452
+53,Footwear,Sandals,Strydo,4850,2515
+54,Footwear,Sports Shoes,SprintX,2174,1186
+55,Beauty,Makeup,PureSkin,1245,617
+56,Women's Apparel,Kurtis,Zariya,3318,1828
+57,Women's Apparel,Tops,Meraki,1202,694
+58,Beauty,Skincare,PureSkin,985,492
+59,Women's Apparel,Dresses,Chiffon Co,2340,1157
+60,Beauty,Skincare,Glowly,1286,743
+61,Beauty,Haircare,PureSkin,524,282
+62,Accessories,Sunglasses,TimeKeep,2434,1266
+63,Footwear,Sports Shoes,Strydo,2111,1188
+64,Men's Apparel,Shirts,Denimo,1446,622
+65,Accessories,Belts,Solstice,1146,553
+66,Beauty,Makeup,Glowly,919,430
+67,Accessories,Sunglasses,Solstice,1202,547
+68,Accessories,Sunglasses,Carryall,1955,1084
+69,Women's Apparel,Leggings,Chiffon Co,3023,1581
+70,Women's Apparel,Sarees,Meraki,1664,820
+71,Footwear,Sports Shoes,ComfortWalk,4418,1869
+72,Beauty,Skincare,PureSkin,262,150
+73,Women's Apparel,Kurtis,Meraki,1116,638
+74,Accessories,Belts,TimeKeep,768,441
+75,Men's Apparel,Jackets,Urban Threads,1776,1013
+76,Women's Apparel,Kurtis,Meraki,3454,1896
+77,Beauty,Skincare,PureSkin,340,170
+78,Footwear,Sneakers,ComfortWalk,2774,1479
+79,Accessories,Watches,Solstice,2279,1116
+80,Beauty,Haircare,PureSkin,698,377
+81,Beauty,Makeup,NatureLux,864,388
+82,Women's Apparel,Tops,Zariya,1744,735
+83,Women's Apparel,Kurtis,Meraki,2600,1361
+84,Accessories,Sunglasses,Carryall,1955,917
+85,Beauty,Haircare,PureSkin,1326,627
+86,Accessories,Belts,TimeKeep,1087,477
+87,Beauty,Makeup,Glowly,765,410
+88,Beauty,Makeup,PureSkin,938,421
+89,Men's Apparel,Jackets,Denimo,1622,757
+90,Women's Apparel,Sarees,Chiffon Co,2950,1447
+91,Women's Apparel,Kurtis,Zariya,1066,532
+92,Beauty,Makeup,NatureLux,373,216
+93,Men's Apparel,Jackets,FitLine,2982,1434
+94,Accessories,Belts,Solstice,545,313
+95,Men's Apparel,Shirts,Denimo,1582,708
+96,Men's Apparel,Shirts,Urban Threads,2172,924
+97,Footwear,Formal Shoes,SprintX,3814,2083
+98,Beauty,Makeup,Glowly,504,285
+99,Women's Apparel,Kurtis,Chiffon Co,1858,817
+100,Footwear,Sports Shoes,ComfortWalk,3021,1558
+101,Accessories,Belts,Solstice,1236,635
+102,Men's Apparel,Jeans,Urban Threads,1216,546
+103,Beauty,Haircare,NatureLux,1035,490
+104,Men's Apparel,Shirts,Aravalli,2185,1202
+105,Beauty,Skincare,PureSkin,436,251
+106,Accessories,Bags,Solstice,521,262
+107,Beauty,Haircare,NatureLux,1323,583
+108,Footwear,Sports Shoes,SprintX,1117,525
+109,Men's Apparel,Jackets,FitLine,880,503
+110,Women's Apparel,Sarees,Zariya,3488,2012
+111,Women's Apparel,Sarees,Meraki,1379,770
+112,Footwear,Sports Shoes,ComfortWalk,4359,2337
+113,Beauty,Makeup,NatureLux,905,428
+114,Beauty,Haircare,PureSkin,1370,659
+115,Accessories,Bags,TimeKeep,1860,1075
+116,Women's Apparel,Sarees,Chiffon Co,2656,1487
+117,Accessories,Bags,Solstice,889,497
+118,Women's Apparel,Kurtis,Aravalli,1985,1104
+119,Beauty,Haircare,PureSkin,679,354
+120,Footwear,Sandals,SprintX,1402,626
+121,Footwear,Sneakers,Strydo,2200,1076
+122,Women's Apparel,Leggings,Aravalli,3391,1519
+123,Beauty,Haircare,NatureLux,674,333
+124,Footwear,Sports Shoes,ComfortWalk,4690,2088
+125,Accessories,Belts,Solstice,2036,1004
+126,Footwear,Sandals,ComfortWalk,1970,941
+127,Footwear,Formal Shoes,Strydo,1032,556
+128,Footwear,Sandals,SprintX,3606,1659
+129,Women's Apparel,Kurtis,Chiffon Co,2404,1044
+130,Footwear,Formal Shoes,SprintX,1821,1020
+131,Footwear,Formal Shoes,Strydo,4961,2722
+132,Accessories,Bags,Carryall,1926,922
+133,Accessories,Bags,TimeKeep,1808,928
+134,Footwear,Sneakers,SprintX,1101,501
+135,Men's Apparel,Ethnic Wear,Aravalli,2171,1018
+136,Accessories,Bags,Carryall,1890,906
+137,Beauty,Haircare,NatureLux,1201,623
+138,Footwear,Sneakers,SprintX,2815,1568
+139,Men's Apparel,Jeans,Aravalli,747,427
+140,Accessories,Bags,Solstice,386,211
+141,Women's Apparel,Dresses,Meraki,2869,1356
+142,Women's Apparel,Leggings,Chiffon Co,1191,521
+143,Men's Apparel,Shirts,Urban Threads,1966,881
+144,Men's Apparel,Shirts,FitLine,2653,1305
+145,Footwear,Sneakers,ComfortWalk,4871,2281
+146,Men's Apparel,T-Shirts,FitLine,2144,1145
+147,Accessories,Bags,Carryall,568,264
+148,Beauty,Makeup,NatureLux,802,395
+149,Beauty,Haircare,Glowly,1079,531
+150,Women's Apparel,Sarees,Zariya,2232,1090
+151,Footwear,Formal Shoes,Strydo,1372,671
+152,Footwear,Sandals,SprintX,4917,2388
+153,Accessories,Bags,TimeKeep,723,362
+154,Women's Apparel,Sarees,Meraki,2033,1102
+155,Beauty,Skincare,PureSkin,1446,822
+156,Footwear,Sneakers,Strydo,4121,1962
+157,Women's Apparel,Dresses,Aravalli,1180,636
+158,Women's Apparel,Sarees,Aravalli,1995,1068
+159,Beauty,Makeup,Glowly,366,170
+160,Accessories,Sunglasses,Solstice,1181,518
+161,Accessories,Bags,TimeKeep,1562,711
+162,Beauty,Skincare,Glowly,480,260
+163,Footwear,Formal Shoes,Strydo,4058,1788
+164,Beauty,Makeup,Glowly,346,167
+165,Men's Apparel,Ethnic Wear,Urban Threads,2382,1164
+166,Accessories,Sunglasses,TimeKeep,1629,893
+167,Beauty,Haircare,NatureLux,697,341
+168,Accessories,Bags,TimeKeep,1663,719
+169,Men's Apparel,Jackets,Denimo,1930,842
+170,Footwear,Sandals,Strydo,4112,2353
+171,Accessories,Sunglasses,Solstice,1622,763
+172,Accessories,Bags,TimeKeep,1424,611
+173,Beauty,Skincare,PureSkin,954,528
+174,Men's Apparel,T-Shirts,FitLine,2394,1354
+175,Beauty,Makeup,Glowly,507,291
+176,Accessories,Bags,TimeKeep,1005,462
+177,Accessories,Sunglasses,Solstice,1789,1014
+178,Accessories,Sunglasses,TimeKeep,1669,789
+179,Beauty,Makeup,PureSkin,881,382
+180,Women's Apparel,Tops,Zariya,1127,574
+181,Footwear,Sandals,SprintX,3645,1742
+182,Footwear,Formal Shoes,Strydo,4880,2226
+183,Women's Apparel,Dresses,Chiffon Co,1013,533
+184,Beauty,Skincare,NatureLux,1478,812
+185,Women's Apparel,Sarees,Chiffon Co,2091,1083
+186,Accessories,Watches,Solstice,2220,1063
+187,Beauty,Haircare,PureSkin,1056,607
+188,Women's Apparel,Leggings,Meraki,812,413
+189,Men's Apparel,Jackets,Urban Threads,1666,819
+190,Beauty,Skincare,PureSkin,914,520
+191,Accessories,Bags,TimeKeep,1880,902
+192,Men's Apparel,Jeans,Urban Threads,1872,1061
+193,Accessories,Watches,Solstice,320,135
+194,Women's Apparel,Dresses,Aravalli,1779,761
+195,Accessories,Sunglasses,Carryall,2494,1300
+196,Beauty,Skincare,NatureLux,1458,695
+197,Beauty,Haircare,Glowly,337,193
+198,Beauty,Makeup,NatureLux,288,150
+199,Footwear,Formal Shoes,SprintX,4228,1939
+200,Men's Apparel,Jackets,Aravalli,1045,578
+201,Accessories,Sunglasses,Solstice,2173,1015
+202,Men's Apparel,Shirts,Urban Threads,1791,888
+203,Men's Apparel,Shirts,Aravalli,1961,863
+204,Footwear,Sports Shoes,ComfortWalk,2387,1267
+205,Footwear,Formal Shoes,Strydo,2762,1290
+206,Men's Apparel,T-Shirts,Aravalli,1709,906
+207,Footwear,Sports Shoes,Strydo,2780,1201
+208,Accessories,Belts,Solstice,2093,921
+209,Women's Apparel,Tops,Zariya,2922,1671
+210,Footwear,Sports Shoes,Strydo,3167,1489
+211,Footwear,Sandals,Strydo,3043,1723
+212,Men's Apparel,Jeans,Aravalli,2326,1051
+213,Women's Apparel,Kurtis,Aravalli,2422,1292
+214,Beauty,Makeup,PureSkin,939,471
+215,Men's Apparel,Shirts,Denimo,1468,751
+216,Accessories,Watches,Solstice,1929,972
+217,Accessories,Bags,Carryall,2142,1133
+218,Footwear,Sandals,SprintX,4143,2073
+219,Men's Apparel,T-Shirts,Denimo,1744,829
+220,Beauty,Haircare,Glowly,455,237
+221,Beauty,Makeup,Glowly,549,288
+222,Beauty,Haircare,NatureLux,1380,638
+223,Women's Apparel,Leggings,Aravalli,2638,1312
+224,Accessories,Belts,TimeKeep,946,460
+225,Accessories,Watches,TimeKeep,1606,925
+226,Women's Apparel,Tops,Chiffon Co,1589,782
+227,Women's Apparel,Kurtis,Chiffon Co,2172,1247
+228,Women's Apparel,Tops,Zariya,1251,625
+229,Footwear,Sports Shoes,Strydo,3069,1395
+230,Footwear,Sneakers,Strydo,3446,1743
+231,Men's Apparel,Ethnic Wear,Denimo,1582,676
+232,Men's Apparel,Jackets,Denimo,1983,993
+233,Beauty,Haircare,NatureLux,1005,482
+234,Footwear,Formal Shoes,Strydo,3084,1315
+235,Men's Apparel,Shirts,Aravalli,2439,1373
+236,Women's Apparel,Tops,Zariya,2208,1046
+237,Beauty,Makeup,PureSkin,953,451
+238,Men's Apparel,Ethnic Wear,Aravalli,608,312
+239,Men's Apparel,Jackets,FitLine,1197,660
+240,Women's Apparel,Kurtis,Chiffon Co,676,300
+241,Women's Apparel,Sarees,Aravalli,3489,1778
+242,Accessories,Sunglasses,TimeKeep,2482,1259
+243,Footwear,Sports Shoes,Strydo,3284,1874
+244,Footwear,Formal Shoes,SprintX,3886,1930
+245,Beauty,Makeup,PureSkin,1007,555
+246,Women's Apparel,Tops,Chiffon Co,922,497
+247,Women's Apparel,Dresses,Zariya,3450,1789
+248,Beauty,Skincare,Glowly,661,345
+249,Men's Apparel,T-Shirts,FitLine,1851,1063
+250,Women's Apparel,Sarees,Aravalli,3263,1519
+251,Men's Apparel,T-Shirts,Denimo,2690,1510
+252,Women's Apparel,Kurtis,Aravalli,1362,574
+253,Beauty,Makeup,Glowly,1210,680
+254,Women's Apparel,Leggings,Aravalli,1388,619
+255,Accessories,Belts,Solstice,1679,858
+256,Women's Apparel,Dresses,Aravalli,2709,1428
+257,Women's Apparel,Dresses,Aravalli,1615,739
+258,Footwear,Formal Shoes,ComfortWalk,1045,555
+259,Men's Apparel,T-Shirts,FitLine,1755,931
+260,Footwear,Formal Shoes,SprintX,4920,2187
