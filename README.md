@@ -190,5 +190,11 @@ erDiagram
   SQL scripts, and a scheduled refresh into Power BI service instead of a
   static CSV export.
 
+<img width="236" height="224" alt="Screenshot 2026-09-13 165118" src="https://github.com/user-attachments/assets/e2b3a917-bee5-4eb4-b067-326378c189c5" />
+
+
+
+  
+
 ---
 *Built by Anshikha Chaurasiya as a self-directed analytics project.*
